@@ -1,0 +1,11 @@
+problem1:   8  min
+problem2:   11 min
+problem3:   6  min
+problem4:   17 min
+problem5:   31 min
+problem6:   20 min
+problem7:   20 min
+problem8:   52 min
+problem9:   25 min
+problem10:  60 min (had to use YouTube)
+
